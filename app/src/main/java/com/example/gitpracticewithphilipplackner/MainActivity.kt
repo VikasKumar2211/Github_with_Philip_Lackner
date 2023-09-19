@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
 
         println("THIS is 2nd commit")
+
+        today is good day //to learn how  to "undo" if we fuck the things i.e revert
     }
 }
