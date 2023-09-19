@@ -10,7 +10,5 @@ class MainActivity : AppCompatActivity() {
 
 
         println("THIS is 2nd commit")
-
-        fdsapjtgoiajkh m fbjh// fucking up again to revert again but this time no command line
     }
 }
